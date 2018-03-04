@@ -58,7 +58,7 @@ h6 {
     margin-bottom: 10px;
     padding-bottom: 17%;
     height: 100%;
-    background: url(/top-right.png) no-repeat;
+    background: url(bg_png/top-right.png) no-repeat;
     background-size: cover;
     z-index: 5
 } 
@@ -75,7 +75,7 @@ h6 {
 }
 .box-left {
     width: 100%;
-    background: url(/1.png) no-repeat;
+    background: url(bg_png/1.png) no-repeat;
     background-size: 100%;
     padding: 0 3% 7%
   
@@ -140,7 +140,7 @@ h6 {
     color: #fff
 }
 .contact-container{
-    background: url(/contacts.png) no-repeat;
+    background: url(bg_png/contacts.png) no-repeat;
     background-size: cover;
     padding: 0 0
 }
@@ -174,7 +174,7 @@ h6 {
 .footer {
     width: 100%;
     padding: 0 0;
-    background: url(/footer.png) no-repeat;
+    background: url(bg_png/footer.png) no-repeat;
     background-size: cover
 }
 @media screen and (max-width: 770px) {
