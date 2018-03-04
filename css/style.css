@@ -3,8 +3,8 @@ html, body {
     max-width: 1920px;
     height: 100%;
     font-family: cosmic;
-    color: #272F2F
-	
+    color: #272F2F;
+	overflow-x: hidden
 }
 header {
     display: flex;
@@ -206,9 +206,6 @@ h6 {
     }
     .footer h4 {
         margin-left: 20%
-    }
-    .content {
-        overflow-x: scroll
     }
     
 }
